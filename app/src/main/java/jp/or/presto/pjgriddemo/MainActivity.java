@@ -11,8 +11,8 @@ import jp.or.presto.pjgriddemo.blob.*;
 
 public class MainActivity extends AppCompatActivity {
     public static final String storageConnectionString = "DefaultEndpointsProtocol=https;"
-            + "AccountName=areaserviceblob;"
-            + "AccountKey=kaQhLqnRoOchwmU2KlpdBxBTUuqYHGooNrE2/ebLN6XgixX5RZD+XNnaRzhDC979xrhnOWnM4nVgKzuNQl2Tnw==";
+            + "AccountName=xxxxx;"
+            + "AccountKey=yyyyyyyyyyyy";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
